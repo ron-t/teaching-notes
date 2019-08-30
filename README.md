@@ -11,7 +11,7 @@ Topics from a level-100 general education course on working with digital informa
 ## Data management
 Topics from a level-200 course for business students on managing digital data.
 
-- Digital data: files, formats, and databases
+- [Digital data](201-01-Digital-data.md): files, formats, and databases
 - SQL (use cases in SQL Server and [SSMS](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms))
 - Data storage design considerations (using the relational model)
 - Data flows: an introduction to ETL (use cases in [SSIS](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services))

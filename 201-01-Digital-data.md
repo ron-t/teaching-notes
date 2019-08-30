@@ -239,7 +239,7 @@ considered a "text file" or not.
 <td></td>
 </tr>
 <tr class="odd">
-<td><a href="resources/01-url">url.url</a></td>
+<td><a href="resources/01-url.url">url.url</a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -809,13 +809,12 @@ View the example JSON file:
 </ul>
 <p>Tags can have <strong>attributes</strong> which are name value pairs in the format: attributeName="attributeValue"</p>
 <p>XML documents are usually declared with this tag at the beginning of the file:</p>
-<code>&lt;?xml version="1.0" encoding="UTF-8"?&gt;</p></td>
+<code>&lt;?xml version="1.0" encoding="UTF-8"?&gt;</td>
 </tr>
 <tr class="odd">
 <td>Example</td>
 <td>
-<pre>
-&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+<pre>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;bookstore&gt;
   &lt;book category="cooking"&gt;
     &lt;title lang="en"&gt;Everyday Italian&lt;/title&gt;
@@ -835,9 +834,7 @@ View the example JSON file:
     &lt;year&gt;2003&lt;/year&gt;
     &lt;price&gt;39.95&lt;/price&gt;
   &lt;/book&gt;
-&lt;/bookstore&gt;
-
-</pre>
+&lt;/bookstore&gt;</pre>
 <p>Source: <a href="https://www.w3schools.com/Xml/xml_tree.asp">https://www.w3schools.com/Xml/xml_tree.asp</a></p></td>
 </tr>
 <tr class="even">
