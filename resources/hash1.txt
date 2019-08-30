@@ -1,0 +1,1 @@
+Identical to the other hash text file except this last character: 0
